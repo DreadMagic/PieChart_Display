@@ -1,5 +1,3 @@
-package com.company;
-
 /**
  * Implements a program with a pie chart
  * that shows interactive polling results for three candidates
